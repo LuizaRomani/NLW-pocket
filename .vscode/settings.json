@@ -1,0 +1,4 @@
+{
+    "editos.formatOnSAve" : true,
+    "editos.defaultFormatter" : "biomejs.biome",
+}
